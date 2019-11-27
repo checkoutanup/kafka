@@ -1,5 +1,8 @@
+![Screenshot](img\Consumer.PNG)
+
+
+
 ##### Note : Assuming running this command from kafka path such as **c:/apps/kafka**
-![Screenshot](Consumer.PNG)
 ## Start Zookeper 
   - Windows : .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
   - Linux : bin/zookeeper-server-start.sh config/zookeeper.properties
